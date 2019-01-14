@@ -30,6 +30,7 @@
                 android:orientation="vertical">
 
                 <TextView
+                    android:id="@+id/mainActivity_FullFight"
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:background="#ff0d00"
